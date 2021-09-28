@@ -1,3 +1,3 @@
 # rainbow
 first fork
-A lovly day
+A lovely day
